@@ -1,13 +1,13 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Osigie!;I'm+a+Frontend+Dev...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=847af7&size=30&lines=Hey!+It's+Osigie!;I'm+a+Frontend+Dev...)](https://git.io/typing-svg)
 
 <div align="center">
 
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://github.com/osigie/osigie/issues/new"><b>here</b></a><br>
-or <a href="mailto:chukwukahonour@gmail.com"><b>email</b></a> me
+Ask me anything <a href="https://twitter.com/KenOsigie"><b>on Twitter</b></a><br>
+or <a href="mailto:kenosagie88@gmail.com"><b>email</b></a> me
 
 <i>Happy Coding!</i> 😊
 
@@ -15,15 +15,16 @@ or <a href="mailto:chukwukahonour@gmail.com"><b>email</b></a> me
 
 <h2> About Me </h2>
 
- - 🌱 I have 3+ years of professional experience working majorly with typescript using different javascript libraries and frameworks like React, Vue and Angular.
+ - 🌱 I have 3+ years of professional experience working majorly with typescript using different javascript libraries and frameworks like React, Vue, Next and Angular and contributing to different open source projects.
  - 👯 I’m looking to collaborate on Web development and Open Source Projects.
- - 💬 Ask me about react, css, typescript...
- - 😀 Fun fact: I love playing fifa🎮
+ - 💬 Ask me about vue, react, css, typescript...
+ - 😀 Fun fact: I love watching football⚽🏈
   
  
 ## 🛠️ Technologies
 <p>
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+<img alt="React" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
