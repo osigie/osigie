@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=35&lines=Hey!+It's+Osigie!;I'm+a+Frontend+Dev...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=35&lines=Hey!+It's+Osigie!;I'm+a+Software+Engineer...)](https://git.io/typing-svg)
 
 <div align="center">
 
@@ -15,7 +15,7 @@ or <a href="mailto:kenosagie88@gmail.com"><b>email</b></a> me
 
 - 🌱 I have 3+ years of professional experience working majorly with typescript using different javascript libraries and frameworks like Express, Nest, React, Vue, Next and Angular while contributing to different open source projects.
 - 👯 I’m looking to collaborate on Web development and Open Source Projects.
-- 💬 Ask me about vue, react, css, typescript...
+- 💬 Ask me about node, vue, react, css, typescript...
 - 😀 Fun fact: I love watching football⚽🏈
 
 ## 🛠️ Technologies
