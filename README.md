@@ -13,7 +13,7 @@ or <a href="mailto:kenosagie88@gmail.com"><b>email</b></a> me
 
 <h2> About Me </h2>
 
-- 🌱 I have 3+ years of professional experience working majorly with typescript using different javascript libraries and frameworks like React, Vue, Next and Angular while contributing to different open source projects.
+- 🌱 I have 3+ years of professional experience working majorly with typescript using different javascript libraries and frameworks like Express, Nest, React, Vue, Next and Angular while contributing to different open source projects.
 - 👯 I’m looking to collaborate on Web development and Open Source Projects.
 - 💬 Ask me about vue, react, css, typescript...
 - 😀 Fun fact: I love watching football⚽🏈
@@ -21,6 +21,21 @@ or <a href="mailto:kenosagie88@gmail.com"><b>email</b></a> me
 ## 🛠️ Technologies
 
 <p>
+ < img alt = "AWS" src = "https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white
+  " />
+  <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
+  " />
+  <img alt="NestJS" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white
+  " />
+  <img alt="ExpressJS" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB
+  " />
+  <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white
+  " />
+  <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white
+" />
+<img alt="Planetscale" src="https://img.shields.io/badge/planetscale-%23000000.svg?style=for-the-badge&logo=planetscale&logoColor=whitehttps://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white
+" />
+  <img alt="Github Actions" src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 <img alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=white" />
 <img alt="Next" src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
