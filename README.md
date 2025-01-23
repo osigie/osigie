@@ -13,10 +13,19 @@ or <a href="mailto:kenosagie88@gmail.com"><b>email</b></a> me
 
 <h2> About Me </h2>
 
-- 🌱 I have 5 years of professional experience working majorly with typescript using different javascript libraries and frameworks like Express, Nest, React, Vue, Next and Angular while contributing to different open source projects.
-- 👯 I’m looking to collaborate on Web development and Open Source Projects.
-- 💬 Ask me about node, vue, react, css, typescript...
-- 😀 Fun fact: I love watching football⚽🏈
+🌱 **Experience:**  
+I’m a software engineer with over 5 years of professional experience, specializing in **TypeScript** and **Java**. I’ve worked extensively with JavaScript libraries and frameworks such as **Express**, **NestJS**, **React**, **Vue**, **Next.js**, and **Angular**, alongside backend technologies like **Java** and **Spring Boot**. I’m passionate about building scalable systems, clean code, and contributing to open-source projects.  
+
+👯 **Collaboration Interests:**  
+I’m excited to collaborate on **web development**, **backend systems**, and **open-source projects**, leveraging my skills to create impactful solutions.  
+
+💬 **Ask Me About:**  
+- **Frontend:** React, Vue, Angular, TypeScript, JavaScript  
+- **Backend:** Node.js, Java, Spring Boot, API Development  
+- **Styling:** CSS, Tailwind CSS  
+
+😀 **Fun Fact:**  
+I’m a football enthusiast (⚽🏈) who loves watching and analyzing games almost as much as I enjoy solving complex technical challenges.
 
 ## 🛠️ Technologies
 
