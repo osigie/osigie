@@ -13,7 +13,7 @@ or <a href="mailto:kenosagie88@gmail.com"><b>email</b></a> me
 
 <h2> About Me </h2>
 
-- 🌱 I have 3+ years of professional experience working majorly with typescript using different javascript libraries and frameworks like Express, Nest, React, Vue, Next and Angular while contributing to different open source projects.
+- 🌱 I have 5 years of professional experience working majorly with typescript using different javascript libraries and frameworks like Express, Nest, React, Vue, Next and Angular while contributing to different open source projects.
 - 👯 I’m looking to collaborate on Web development and Open Source Projects.
 - 💬 Ask me about node, vue, react, css, typescript...
 - 😀 Fun fact: I love watching football⚽🏈
